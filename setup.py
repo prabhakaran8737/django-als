@@ -8,7 +8,7 @@ setup(
 	name='django-als',
 	version='1.0.0',
 	description='API calls',
-	long_description=read_me('README.rst'),
+	long_description=read_me('README.md'),
 	url='',
 	download_url='',
 	author='Prabhakaran',
